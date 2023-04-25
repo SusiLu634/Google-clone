@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 60px;
+}
+
+header nav{
+    display: flex;
+    /*JUSTIFICAR HACIA LA DERECHA*/
+    justify-content: flex-end;
+}
+
+header nav .nav-right-section{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: auto;
+}
+
+nav .nav-right-section .menu{
+    background-image: url(https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png);
+    width: 20px;
+    height: 20px;
+    /*settea el tamaño del icono a lo mas grande posible*/
+    background-size: contain;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+/*Susana Isabel Lopez Hernandez*/
+nav .nav-right-section a{
+    margin-right: 25px;
+    color: #000000DE;
+}
+
+nav .nav-right-section img{
+    border-radius: 60px;
+    margin-left: 20px;
+    width: 35px;
+    height: 35px;
+}
+
+main{
+    /*agrega margen arriba*/
+    margin-top: 150px;
+    /*cetran todo horizontalmente*/
+    text-align: center;
+}
+
+main .main-logo{
+    /*elemento horizontalmente dentro de su contenedor, el 0 dice que no hay espacio 
+    entre este elemento y los que estan arriba o abajo*/
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main.main-logo img{
+    height: 120px;
+
+}
+
+main .main-input{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-input-container{
+    width: 530px;
+    border: 1px solid #dfe1e5;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
