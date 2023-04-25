@@ -18,7 +18,7 @@ header nav{
 
 header nav .nav-right-section{
     width: 250px;
-    list-style:none;
+    list-style: none;
     /* Propiedad flex - sea reponsivo y flexible */
     display:flex;
     justify-content: center;
@@ -31,7 +31,7 @@ a{
     /* Quita línea de abajo */
     text-decoration: none;
     /* Cambia el curso a un pointer */
-    cursor:pointer;
+    cursor: pointer;
 }
 
 nav .nav-right-section a{
@@ -92,13 +92,13 @@ main .main-input-container{
 
 main .main-input input{
     border: none;
-    /* Editar tamaño? */
+    /* Editar tamaño */
     width: 530px;
     height: 40px;
     outline: none;
 }
 
-main .main-input-container:hover{
+main .main-input-container{
     box-shadow: 0 1px 6px 0px #20212447;
     border-color: #dfe1e500;
 }
@@ -129,8 +129,8 @@ main .main-input .cam-icon{
     width: 17px;
     height: 17px;
     background-repeat: no-repeat;
-    background-position: center;
     background-size: contain;
+    background-position: center;
     padding-right: 8%;
 }
 
@@ -158,9 +158,6 @@ main .main-buttons button:hover{
     cursor: pointer;
 }
 
-/*************************************************/
-/********************************************/
-/***********************************/
 /* Footer */
 
 
@@ -196,5 +193,6 @@ footer .footer-left{
 footer .footer-right{
     justify-self: right;
 }
+
 
 
