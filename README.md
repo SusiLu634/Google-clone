@@ -2,7 +2,7 @@
 ###### Clone de Google usando HTML y CSS | Google Clone using HTML and CSS
 
 ## ÍNDICE
-* [1. Intro](#Intro)
+* [1. Intro]([#Intro](https://github.com/SusiLu634/Google-clone/blob/main/README.md#intro))
 * [2. Que construi]()
 * [3. Objetivos del Proyecto]()
 
