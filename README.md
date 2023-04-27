@@ -3,7 +3,7 @@
 
 ## ÍNDICE
 * [1. Intro](#Intro)
-* [2. Que construi](#Que construi?)
+* [2. Que construi](https://github.com/SusiLu634/Google-clone/blob/main/README.md#que-construi)
 * [3. Objetivos del Proyecto](#Objetivo del Proyecto)
 
 ***
