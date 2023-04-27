@@ -23,3 +23,4 @@ El proyecto esta enfocado en la construccion de la interfaz de Google, tomando e
 ## Objetivo del Proyecto
 Aprender a utilizar las etiquetas de HTML5 y las propiedades de 
 
+![clone-google](https://user-images.githubusercontent.com/97309927/234747019-48063ea9-b347-462b-9440-adf8dfadc407.png)
