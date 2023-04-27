@@ -3,8 +3,8 @@
 
 ## ÍNDICE
 * [1. Intro](#Intro)
-* [2. Que construi]()
-* [3. Objetivos del Proyecto]()
+* [2. Que construi](#Que construi?)
+* [3. Objetivos del Proyecto](#Objetivo del Proyecto)
 
 ***
 
